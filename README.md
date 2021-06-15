@@ -3,7 +3,7 @@
 
 O Portal do Bira foi criado para que o escritor Ubirajara Bueno colocasse seus contos e outros projetos culturais acessível para todos.
 
-Início: 2015
+Início: 2011
 Fim: 2020
 
 Criador: André Gomes Rocha
